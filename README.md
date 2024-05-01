@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Anis haddouche, a passionate Data Scientist!
+I'm Milaine, a passionate Business Inteligence analyst!
 
-🔭 Currently, I'm working on refining machine learning models for supply chain.
+🔭 Passionate about data and analytics, I am now a Business Intelligence Analyst following my career change. 
 
-🌱 I'm continuously learning and exploring new techniques in data engineering and MLOps to enhance my skills.
+🌱 Ready to showcase my skills in data mining, data visualization, and reporting to help businesses make strategic decisions based on reliable data. 
 
-💬 Ask me about anything related to data analysis, machine learning, or data engineering—I'm always up for a stimulating discussion!
+💬 Let's make sense of the numbers together! 
 
-📫 You can reach me via email at [anisahdd@email.com](anisahdd@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anis-m-haddouche-a8667175/)).
+📫 You can reach me via email at [milaineteugueu@gmail.com](milaineteugueu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/milaine-guiagaing-424118149/)).
 
 
 Feel free to explore my repositories to see some of my projects and contributions in the field of Data Science!
