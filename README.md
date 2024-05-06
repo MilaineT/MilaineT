@@ -13,4 +13,4 @@ I'm Milaine, a passionate Business Inteligence analyst!
 
 Feel free to explore my repositories to see some of my projects and contributions in the field of Data Science!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anismhaddouche&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilaineT&langs_count=8)
